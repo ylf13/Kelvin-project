@@ -2,7 +2,7 @@
 const kelvin = 293;
 
 //  converting celcius to kelvin
-var Celcius = kelvin - 293;
+var Celcius = kelvin - 273;
 
 // Calculating Fareinheit from Celcius and rounding it
 var Fareinheit = Celcius * (9/5) + 32;
